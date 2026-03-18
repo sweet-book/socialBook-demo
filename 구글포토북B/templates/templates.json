@@ -1,0 +1,7 @@
+[
+  { "templateUid": "6OhURGHdlI6y", "templateName": "구글포토북B_표지", "templateKind": "cover" },
+  { "templateUid": "1VR1XHEuXuQx", "templateName": "구글포토북B_간지", "templateKind": "content" },
+  { "templateUid": "6vUcK4Efowmh", "templateName": "구글포토북B_내지", "templateKind": "content" },
+  { "templateUid": "5LgRgkQPRofX", "templateName": "구글포토북B_발행면", "templateKind": "publish" },
+  { "templateUid": "6qlvRxFJRX5q", "templateName": "구글포토북B_빈내지", "templateKind": "content" }
+]
