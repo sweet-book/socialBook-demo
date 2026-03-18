@@ -1,0 +1,65 @@
+{
+  "title": "(구글포토북B) 나의 모든 순간들",
+  "cover": {
+    "coverPhoto": "https://picsum.photos/seed/gphotoB_cover/800/1000",
+    "subtitle": "나의 모든\n순간들",
+    "dateRange": "2025.04 - 2025.06"
+  },
+  "ganji": {
+    "dateRangeDetail": "2025.04.08 - 2025.06.15"
+  },
+  "publish": {
+    "photo": "https://picsum.photos/seed/gphotoB_publish/600/600",
+    "title": "구글포토북 B",
+    "publishDate": "2026년 2월 26일",
+    "author": "김수진",
+    "hashtags": "#포토북은 #역시 #스위트북",
+    "publisher": "(주)스위트북"
+  },
+  "entries": [
+    {"date": "/ 2025.04.08", "break_before": "page", "photos": [
+      "https://picsum.photos/seed/gB_0408a/800/600",
+      "https://picsum.photos/seed/gB_0408b/600/800",
+      "https://picsum.photos/seed/gB_0408c/800/600",
+      "https://picsum.photos/seed/gB_0408d/600/600",
+      "https://picsum.photos/seed/gB_0408e/600/800"
+    ]},
+    {"date": "/ 2025.04.09", "photos": [
+      "https://picsum.photos/seed/gB_0409a/800/600",
+      "https://picsum.photos/seed/gB_0409b/800/600",
+      "https://picsum.photos/seed/gB_0409c/600/800"
+    ]},
+    {"date": "/ 2025.04.23", "photos": [
+      "https://picsum.photos/seed/gB_0423a/600/800",
+      "https://picsum.photos/seed/gB_0423b/800/600",
+      "https://picsum.photos/seed/gB_0423c/800/600",
+      "https://picsum.photos/seed/gB_0423d/600/600"
+    ]},
+    {"date": "/ 2025.05.10", "photos": [
+      "https://picsum.photos/seed/gB_0510a/800/600",
+      "https://picsum.photos/seed/gB_0510b/600/800",
+      "https://picsum.photos/seed/gB_0510c/800/600",
+      "https://picsum.photos/seed/gB_0510d/600/800",
+      "https://picsum.photos/seed/gB_0510e/600/600",
+      "https://picsum.photos/seed/gB_0510f/800/600"
+    ]},
+    {"date": "/ 2025.05.24", "photos": [
+      "https://picsum.photos/seed/gB_0524a/600/800",
+      "https://picsum.photos/seed/gB_0524b/800/600",
+      "https://picsum.photos/seed/gB_0524c/600/600"
+    ]},
+    {"date": "/ 2025.06.03", "photos": [
+      "https://picsum.photos/seed/gB_0603a/800/600",
+      "https://picsum.photos/seed/gB_0603b/600/800",
+      "https://picsum.photos/seed/gB_0603c/800/600",
+      "https://picsum.photos/seed/gB_0603d/600/600"
+    ]},
+    {"date": "/ 2025.06.15", "photos": [
+      "https://picsum.photos/seed/gB_0615a/600/800",
+      "https://picsum.photos/seed/gB_0615b/800/600",
+      "https://picsum.photos/seed/gB_0615c/600/800",
+      "https://picsum.photos/seed/gB_0615d/600/600",
+      "https://picsum.photos/seed/gB_0615e/800/600"
+    ]}
+  ]
+}

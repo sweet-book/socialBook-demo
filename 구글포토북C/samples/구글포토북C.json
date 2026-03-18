@@ -1,0 +1,44 @@
+{
+  "title": "(구글포토북C) 나의 모든 순간들",
+  "cover": {
+    "coverPhoto": "https://picsum.photos/seed/gphotoC_cover/800/700",
+    "subtitle": "나의 모든 순간들",
+    "dateRange": "2024.12 - 2025.06"
+  },
+  "ganji": {
+    "startYear": 2024, "startMonth": 12,
+    "endYear": 2025, "endMonth": 6
+  },
+  "publish": {
+    "photo": "https://picsum.photos/seed/gphotoC_publish/600/600",
+    "title": "구글포토북 C",
+    "publishDate": "2026년 2월 26일",
+    "author": "김수진",
+    "hashtags": "#포토북은 #역시 #스위트북",
+    "publisher": "(주)스위트북"
+  },
+  "entries": [
+    {"type": "month", "label": "DECEMBER 2024", "break_before": "page"},
+    {"type": "photo", "day": "12\n24", "url": "https://picsum.photos/seed/gC_1224a/800/600"},
+    {"type": "photo", "day": "12\n25", "url": "https://picsum.photos/seed/gC_1225a/600/800"},
+    {"type": "photo", "day": "12\n25", "url": "https://picsum.photos/seed/gC_1225b/800/600"},
+    {"type": "photo", "day": "12\n30", "url": "https://picsum.photos/seed/gC_1230a/800/500"},
+    {"type": "photo", "day": "12\n30", "url": "https://picsum.photos/seed/gC_1230b/500/800"},
+
+    {"type": "month", "label": "APRIL 2025"},
+    {"type": "photo", "day": "04\n01", "url": "https://picsum.photos/seed/gC_0401a/600/800"},
+    {"type": "photo", "day": "04\n27", "url": "https://picsum.photos/seed/gC_0427a/800/600"},
+    {"type": "photo", "day": "04\n27", "url": "https://picsum.photos/seed/gC_0427b/800/600"},
+    {"type": "photo", "day": "04\n27", "url": "https://picsum.photos/seed/gC_0427c/600/800"},
+
+    {"type": "month", "label": "MAY 2025"},
+    {"type": "photo", "day": "05\n05", "url": "https://picsum.photos/seed/gC_0505a/800/600"},
+    {"type": "photo", "day": "05\n05", "url": "https://picsum.photos/seed/gC_0505b/600/800"},
+    {"type": "photo", "day": "05\n12", "url": "https://picsum.photos/seed/gC_0512a/800/600"},
+    {"type": "photo", "day": "05\n12", "url": "https://picsum.photos/seed/gC_0512b/800/500"},
+
+    {"type": "month", "label": "JUNE 2025"},
+    {"type": "photo", "day": "06\n03", "url": "https://picsum.photos/seed/gC_0603a/800/600"},
+    {"type": "photo", "day": "06\n22", "url": "https://picsum.photos/seed/gC_0622a/600/800"}
+  ]
+}

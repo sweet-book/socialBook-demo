@@ -1,0 +1,80 @@
+{
+  "title": "(구글포토북A) 나의 모든 순간들",
+  "cover": {
+    "coverPhoto": "https://picsum.photos/seed/gphotoA_cover/600/900",
+    "subtitle": "나의 모든 순간들",
+    "dateRange": "2024.06 - 2025.12"
+  },
+  "ganji": {
+    "startYear": 2025, "startMonth": 4,
+    "endYear": 2025, "endMonth": 6,
+    "dateRangeDetail": "2025.04.08 - 2025.06.15",
+    "photoCount": "33장"
+  },
+  "publish": {
+    "photo": "https://picsum.photos/seed/gphotoA_publish/600/600",
+    "title": "구글포토북 A",
+    "publishDate": "2026년 2월 26일",
+    "author": "김수진",
+    "hashtags": "#포토북은 #역시 #스위트북",
+    "publisher": "(주)스위트북"
+  },
+  "entries": [
+    {"type": "dateA", "month_year": "APRIL 2025", "day": "4/8", "break_before": "page",
+     "photos": [
+       "https://picsum.photos/seed/gA_0408a/600/800",
+       "https://picsum.photos/seed/gA_0408b/800/600",
+       "https://picsum.photos/seed/gA_0408c/800/600",
+       "https://picsum.photos/seed/gA_0408d/600/600",
+       "https://picsum.photos/seed/gA_0408e/600/600",
+       "https://picsum.photos/seed/gA_0408f/600/600"
+     ]},
+    {"type": "dateB", "day": "4/9",
+     "photos": [
+       "https://picsum.photos/seed/gA_0409a/600/600",
+       "https://picsum.photos/seed/gA_0409b/600/800",
+       "https://picsum.photos/seed/gA_0409c/600/800",
+       "https://picsum.photos/seed/gA_0409d/600/600"
+     ]},
+    {"type": "dateB", "day": "4/27",
+     "photos": [
+       "https://picsum.photos/seed/gA_0427a/800/600",
+       "https://picsum.photos/seed/gA_0427b/600/800",
+       "https://picsum.photos/seed/gA_0427c/800/600",
+       "https://picsum.photos/seed/gA_0427d/600/800",
+       "https://picsum.photos/seed/gA_0427e/600/600"
+     ]},
+
+    {"type": "dateA", "month_year": "MAY 2025", "day": "5/20",
+     "photos": [
+       "https://picsum.photos/seed/gA_0520a/800/600",
+       "https://picsum.photos/seed/gA_0520b/800/600",
+       "https://picsum.photos/seed/gA_0520c/600/800",
+       "https://picsum.photos/seed/gA_0520d/600/600",
+       "https://picsum.photos/seed/gA_0520e/800/600"
+     ]},
+    {"type": "dateB", "day": "5/24",
+     "photos": [
+       "https://picsum.photos/seed/gA_0524a/600/800",
+       "https://picsum.photos/seed/gA_0524b/800/600",
+       "https://picsum.photos/seed/gA_0524c/600/600"
+     ]},
+
+    {"type": "dateA", "month_year": "JUNE 2025", "day": "6/3",
+     "photos": [
+       "https://picsum.photos/seed/gA_0603a/800/600",
+       "https://picsum.photos/seed/gA_0603b/600/800",
+       "https://picsum.photos/seed/gA_0603c/800/600",
+       "https://picsum.photos/seed/gA_0603d/600/600"
+     ]},
+    {"type": "dateB", "day": "6/15",
+     "photos": [
+       "https://picsum.photos/seed/gA_0615a/600/800",
+       "https://picsum.photos/seed/gA_0615b/800/600",
+       "https://picsum.photos/seed/gA_0615c/600/800",
+       "https://picsum.photos/seed/gA_0615d/600/600",
+       "https://picsum.photos/seed/gA_0615e/800/600",
+       "https://picsum.photos/seed/gA_0615f/600/600"
+     ]}
+  ]
+}
