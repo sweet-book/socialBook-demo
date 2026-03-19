@@ -107,7 +107,9 @@ function proxyApi(req, res) {
     });
 
     proxyReq.on('error', (err) => {
-        res.writeHead(502, { 'Content-Type': 'application/json', ...CORS_HEADERS });
+        if (!res.headersSent) {
+            res.writeHead(502, { 'Content-Type': 'application/json', ...CORS_HEADERS });
+        }
         res.end(JSON.stringify({ error: err.message }));
     });
 
