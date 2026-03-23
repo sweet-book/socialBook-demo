@@ -79,6 +79,7 @@ function proxyApi(req, res) {
     const headers = { 'Host': targetUrl.hostname };
     if (req.headers['authorization']) headers['Authorization'] = req.headers['authorization'];
     if (req.headers['content-type']) headers['Content-Type'] = req.headers['content-type'];
+    if (req.headers['idempotency-key']) headers['Idempotency-Key'] = req.headers['idempotency-key'];
 
     const options = {
         hostname: targetUrl.hostname,
