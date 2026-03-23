@@ -152,7 +152,7 @@ class BaseClient {
       fetchOptions.credentials = 'include';
     } else {
       headers['Authorization'] = `Bearer ${this._getApiKey(useAdmin)}`;
-      headers['X-Transaction-ID'] = generateUuid();
+      headers['Idempotency-Key'] = generateUuid();
     }
 
     if (formData) {

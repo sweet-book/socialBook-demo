@@ -30,7 +30,7 @@ const MIME_TYPES = {
 
 const CORS_HEADERS = {
     'Access-Control-Allow-Origin': '*',
-    'Access-Control-Allow-Headers': 'Authorization, Content-Type',
+    'Access-Control-Allow-Headers': 'Authorization, Content-Type, Idempotency-Key',
     'Access-Control-Allow-Methods': 'GET, POST, PATCH, DELETE, OPTIONS',
 };
 
