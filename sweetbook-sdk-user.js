@@ -203,7 +203,7 @@ class SweetbookClient {
    * @param {string} [options.baseUrl] - API base URL (default: https://api.sweetbook.com/v1)
    * @param {string} [options.environment] - 'sandbox' for sandbox server, 'live' for production (default)
    * @param {boolean} [options.useCookie] - Use cookie auth with credentials:'include'
-   * @param {number} [options.timeout] - Request timeout in ms (default: 30000)
+   * @param {number} [options.timeout] - Request timeout in ms (default: 60000)
    */
   constructor(options = {}) {
     if (!options.apiKey && !options.useCookie) {
@@ -212,7 +212,7 @@ class SweetbookClient {
     this._apiKey = options.apiKey || null;
     this._adminApiKey = null;
     this._useCookie = options.useCookie || false;
-    this._timeout = options.timeout || 30000;
+    this._timeout = options.timeout || 60000;
 
     // G-30: sandbox/live 환경 자동 분기
     if (options.baseUrl) {
